@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react--filter-app/static/css/main.5a929801.chunk.css",
+    "main.js": "/react--filter-app/static/js/main.c8d3058d.chunk.js",
+    "main.js.map": "/react--filter-app/static/js/main.c8d3058d.chunk.js.map",
+    "runtime-main.js": "/react--filter-app/static/js/runtime-main.44c48fdd.js",
+    "runtime-main.js.map": "/react--filter-app/static/js/runtime-main.44c48fdd.js.map",
+    "static/js/2.1f3314c8.chunk.js": "/react--filter-app/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "/react--filter-app/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "/react--filter-app/index.html",
+    "precache-manifest.918650fa86cda1af634421fe09a6543f.js": "/react--filter-app/precache-manifest.918650fa86cda1af634421fe09a6543f.js",
+    "service-worker.js": "/react--filter-app/service-worker.js",
+    "static/css/main.5a929801.chunk.css.map": "/react--filter-app/static/css/main.5a929801.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE": "/react--filter-app/static/js/2.1f3314c8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44c48fdd.js",
+    "static/js/2.1f3314c8.chunk.js",
+    "static/css/main.5a929801.chunk.css",
+    "static/js/main.c8d3058d.chunk.js"
+  ]
+}
